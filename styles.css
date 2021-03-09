@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titel{
+    text-align: center;
+    color: #1A5C71;
+    font-weight: lighter;
+}
+.subtitel{
+    text-align: center;
+    color: #1A5C71;
+    font-weight: 2400;
+}
+.ondertitel{
+    text-align: center;
+    color: gray;
+    font-weight: lighter;
+    border-style: dotted; 
+    border-color: #1A5C71;   
+}
+.navigatiebalk{
+    color: black;
+    background-color: cadetblue;
+    text-align: center;
+}
+.tekst{
+    color: gray;
+    font-size:12px;
+    text-align: justify;
+    border-style: dotted;
+    border-color: #1A5C71;
+}
+h3{
+    text-align: left ;
+    color: #1A5C71;
+    font-weight: lighter;
+}
